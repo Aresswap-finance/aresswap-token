@@ -14,7 +14,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 787,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x39AA39c021dfbaE8faC545936693aC917d5E7563/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Aresswap-finance/aresswap-token/main/public/img/0x07DF96D1341A7d16Ba1AD431E2c847d978BC2bCe/logo.png"
     },
     {
       "name": "Aresswap",
@@ -22,7 +22,7 @@
       "symbol": "ARES",
       "decimals": 18,
       "chainId": 787,
-      "logoURI": "https://raw.githubusercontent.com/Aresswap-finance/token-asset/main/public/token/ares.png"
+      "logoURI": "https://raw.githubusercontent.com/Aresswap-finance/aresswap-token/main/public/img/0x1dcf0C35EaE7A38D1ffF4633FF8F009a950c1d39/logo.png"
     },
     {
       "name": "Aseed",
@@ -30,7 +30,7 @@
       "symbol": "ASEED",
       "decimals": 12,
       "chainId": 787,
-      "logoURI": "https://assets.coingecko.com/coins/images/30913/standard/aSEED.png"
+      "logoURI": "https://raw.githubusercontent.com/Aresswap-finance/aresswap-token/main/public/img/0x0000000000000000000100000000000000000001/logo.png"
     },
     {
       "name": "Polkadot",
@@ -38,7 +38,7 @@
       "symbol": "DOT",
       "decimals": 10,
       "chainId": 787,
-      "logoURI": "https://assets.coingecko.com/coins/images/12171/standard/polkadot.png"
+      "logoURI": "https://raw.githubusercontent.com/Aresswap-finance/aresswap-token/main/public/img/0x0000000000000000000100000000000000000002/logo.png"
     },
     {
       "name": "Liquid Dot",
@@ -46,12 +46,12 @@
       "symbol": "LDOT",
       "decimals": 10,
       "chainId": 787,
-      "logoURI": "https://assets.coingecko.com/coins/images/25847/standard/iShot2022-06-02_13.14.07-removebg-preview.png"
+      "logoURI": "https://raw.githubusercontent.com/Aresswap-finance/aresswap-token/main/public/img/0x0000000000000000000100000000000000000003/logo.png"
     }
-    
+
   ],
   "version": {
-    "major": 86,
+    "major": 87,
     "minor": 0,
     "patch": 0
   }
